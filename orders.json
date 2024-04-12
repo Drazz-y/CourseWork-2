@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "65c50e1a1c2981525601f72d"
+  },
+  "name": "Fred Ebho",
+  "phone": "08053574511",
+  "lessonsInOrder": [
+    {
+      "id": "65c1d34a8e34326046c09b22",
+      "topic": "Math",
+      "location": "London",
+      "numberOfSpaces": 1
+    },
+    {
+      "id": "65c1d34a8e34326046c09b28",
+      "topic": "History",
+      "location": "Nairobi",
+      "numberOfSpaces": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c50e481c2981525601f72e"
+  },
+  "name": "Bay",
+  "phone": "971528632465",
+  "lessonsInOrder": [
+    {
+      "id": "65c1d34a8e34326046c09b26",
+      "topic": "Biology",
+      "location": "Helsinki",
+      "numberOfSpaces": 1
+    },
+    {
+      "id": "65c1d34a8e34326046c09b27",
+      "topic": "Commerce",
+      "location": "Valletta",
+      "numberOfSpaces": 1
+    }
+  ]
+}]
